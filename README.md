@@ -6,9 +6,4 @@
 Weird name....ik...right 😅
 <br>
 <br>
-ChatGPT Clone made in
-<br>
-<ul> HTML </ul>
-<ul> CSS </ul>
-<ul> JAVASCRIPT </ul>
-<br>
+ChatGPT Clone made in <b>HTML</b> , <b>CSS</b> & <b>JAVASCRIPT using OpenAI API.
