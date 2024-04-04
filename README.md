@@ -8,4 +8,4 @@ Weird name....ik...right 😅
 <br>
 ChatGPT Clone made in <b>HTML</b> , <b>CSS</b> & <b>JAVASCRIPT using OpenAI API.
 <br>
-<ul> Note: In App.js file Replace given API Key with your own Key to get the HTML File Running. </ul>
+→ Note: In App.js file Replace given API Key with your own Key to get the HTML File Running.
