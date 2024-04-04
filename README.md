@@ -8,8 +8,6 @@ Weird name....ik...right 😅
 ChatGPT Clone made in
 <br>
 <ul> HTML </ul>
-<br>
 <ul> CSS </ul>
-<br>
 <ul> JAVASCRIPT </ul>
 <br>
