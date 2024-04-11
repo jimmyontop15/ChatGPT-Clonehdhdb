@@ -1,3 +1,4 @@
+[![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://forthebadge.com)
 # ChatGPT-Clone
 <img> <img src="https://github.com/theaniketraj/ChatGPT-Clone/blob/main/thumbnail.png">
 <br>
