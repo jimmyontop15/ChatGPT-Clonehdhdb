@@ -1,5 +1,5 @@
 // Insert your own API KEY in below line.
-const API_KEY = 'XX-XXXXXXXXXXXXXXXXXXXXXXXXXXX'
+const API_KEY = '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'
 const submitButton = document.querySelector('#submit')
 const outPutElement = document.querySelector('#output')
 const inputElement = document.querySelector('input')
